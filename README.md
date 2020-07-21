@@ -1,7 +1,7 @@
 
 Installation:
 ==========
-`pipenv install`
+`pipenv install` and `pipenv shell`
 
 Question1:
 ==========
